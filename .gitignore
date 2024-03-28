@@ -1,0 +1,2 @@
+#"This file will ignore all .txt files" .
+*.txt
